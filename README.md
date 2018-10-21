@@ -20,7 +20,7 @@ Technologies used:
 
 Home page:
 
-![Alt Home Page](/README/home.png?raw=true)
+![Alt Home Page](/README/homepage.png?raw=true)
 
 Messaging:
 
