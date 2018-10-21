@@ -18,17 +18,13 @@ Technologies used:
 
 ## Screenshots
 
-Home page:
+Search page:
 
 ![Alt Home Page](/README/homepage.png?raw=true)
 
 Messaging:
 
 ![Alt Signup Page](/README/message.png?raw=true)
-
-Search page:
-
-![Alt Login Page](/README/search.png?raw=true)
 
 Single post:
 
