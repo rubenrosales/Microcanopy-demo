@@ -1,7 +1,7 @@
 # Microcanopy
 Microcanopy is a trading and educational website for cannabis.
 
-Due to not owning the product I'm only allowed to publicly show our file structure.
+Due to not owning the product I'm not allowed to publicly show our codebase.
 
 This project is currently under development but here is a demo of our dev branch:
 http://104.248.119.107:3000/
@@ -20,7 +20,7 @@ Technologies used:
 
 Search page:
 
-![Alt Home Page](/README/homepage.png?raw=true)
+![Alt Home Page](/README/message.png?raw=true)
 
 Messaging:
 
